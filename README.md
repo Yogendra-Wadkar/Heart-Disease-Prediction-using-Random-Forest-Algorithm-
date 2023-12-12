@@ -1,6 +1,7 @@
 # Heart Disease Prediction using Machine Learning
 
 ## About
+![images](https://github.com/Yogendra-Wadkar/Heart-Disease-Prediction-using-Random-Forest-Algorithm-/assets/134367735/20d95525-9728-4062-9f3e-c75a4fd648d1)
 Heart disease is a broad term encompassing various diseases and conditions affecting the heart and circulatory system. It is a major cause of disability worldwide, impacting not only the heart but also other organs and parts of the body. This project focuses on predicting the probability of a person being affected by a severe heart problem using machine learning algorithms.
 
 ## Dataset
